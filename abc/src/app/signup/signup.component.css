@@ -1,0 +1,14 @@
+p{
+    color: red;
+    background-color: whitesmoke;
+    border-radius: 2px;
+}
+form{
+   color:rebeccapurple;
+}
+label{
+    background-color: rgb(155, 8, 155);
+    font-style: italic;
+    color: black;
+    font-size: 30px;
+}

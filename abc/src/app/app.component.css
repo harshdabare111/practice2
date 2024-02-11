@@ -1,0 +1,18 @@
+
+a{
+    padding: 30PX; 
+     margin: 30PX; 
+    font-size: 50PX;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    text-transform: titlecase;
+}
+div{
+   background-color: rgb(240, 31, 101);
+ 
+    
+}
+

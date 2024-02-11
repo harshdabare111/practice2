@@ -1,0 +1,17 @@
+
+<form #data="ngForm"(ngSubmit)="save(data)">
+    <label>Enter your name</label>
+    <input type="text" name="name" ngModel><br><br>
+    <label>Enter your education</label>
+    <input type="text" name="education" ngModel><br><br>
+    <label>Enter your address</label>
+    <input type="text" name="address" ngModel><br><br>
+    <input type="submit">
+</form>
+
+<!-- {{data.value.name}}
+{{data.value.education}}
+{{data.value.address}} -->
+{{newname}}
+{{neweducation}}
+{{newaddress}}
